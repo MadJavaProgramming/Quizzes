@@ -11,3 +11,5 @@
 [Chapter 8 Review](Chapter8.pdf)
 
 [Chapter 9 & 17 Review](Chapter9&17.pdf)
+
+[Chapter 10 Review](Chapter10.pdf)
